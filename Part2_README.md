@@ -21,3 +21,5 @@ Ensemble Methods :
 
 
 Dimension Reduction : Applyting PCA to the dataset and calculating score post transformation on the models used in Part 1.
+
+Nueral Networks - Recurrent Nueral Networks
